@@ -1,3 +1,3 @@
 # frog-crossing-street
 
-assembled using MASM
+assembled with MASM
